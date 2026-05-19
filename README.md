@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="https://sumanshrestha.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FProfile.d0695805.jpg&w=750&q=75" width="180" style="border-radius: 50%;" alt="Suman Shrestha" />
+</div>
+
 # 💫 About Me:
-🛰️ I’m currently working on<br>Full-stack React/Next.js web apps and also Flutter/React-Native mobile apps with scalable backend logic and clean APIs.<br><br>👥 I’m looking to collaborate on<br>Open-source tools, SaaS projects, and developer-focused platforms<br><br>🤝 I’m looking for help with<br>System design, performance optimization, and production architecture<br><br>🌱 I’m currently learning<br>Microservices architecture, backend scaling, and mobile development<br><br>💬 Ask me about<br>Web and mobile Apps, REST APIs, databases and Git workflows<br><br>⚡ Fun fact<br>I like breaking complex systems into simple, modular components
+🛰️ I'm currently working on<br>Full-stack React/Next.js web apps and also Flutter/React-Native mobile apps with scalable backend logic and clean APIs.<br><br>👥 I'm looking to collaborate on<br>Open-source tools, SaaS projects, and developer-focused platforms<br><br>🤝 I'm looking for help with<br>System design, performance optimization, and production architecture<br><br>🌱 I'm currently learning<br>Microservices architecture, backend scaling, and mobile development<br><br>💬 Ask me about<br>Web and mobile Apps, REST APIs, databases and Git workflows<br><br>⚡ Fun fact<br>I like breaking complex systems into simple, modular components
 
 
 ## 🌐 Socials:
